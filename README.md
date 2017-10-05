@@ -10,12 +10,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yiidoc/yii2-redactor "*"
+php composer.phar require --prefer-dist evsyutkin/yii2-redactor "*"
 ```
 
  or
 ```
- "yiidoc/yii2-redactor": "*"
+ "evsyutkin/yii2-redactor": "*"
 ```
 
 to the require section of your composer.json.
